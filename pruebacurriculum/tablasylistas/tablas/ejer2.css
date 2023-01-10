@@ -2,8 +2,12 @@ table {border: 1px solid #000;}
 
 td {
     text-align: left;
-    vertical-align: top;
+    vertical-align: middle;
     border: 1px solid #000;
  }
 
+th{text-align: center; border-collapse:collapse ;}
+
  #p1{text-align: center;}
+
+ caption{text-align: center;}

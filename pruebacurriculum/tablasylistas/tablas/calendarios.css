@@ -1,7 +1,8 @@
 body{background-color: aquamarine;}
 
-#ta1{background-color: white; border: 1px solid gray; width: 50%;
-	height: 300px; text-align: center;}
+#ta1{background-color: white; border: 1px solid gray; 
+    text-align: center; 
+    width: 50%; height: 300px;}
 
 #ca1{font-style: italic; text-decoration-line: overline;}
 

@@ -1,0 +1,17 @@
+.div1{float: left; 
+    border: 5px solid green;
+    width: 100px;
+    height: 50px;
+    padding: 5px;
+    margin: 10px 10px;}
+
+.div2{}
+
+.div3{clear: both;    
+    border: 5px solid green;
+    width: 100px;
+    height: 50px;
+    padding: 5px;
+    margin: 10px 10px;}
+
+h1{clear: both;}

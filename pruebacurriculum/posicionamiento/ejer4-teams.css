@@ -1,0 +1,10 @@
+.cajap{width: 100px;
+    height: 100px;
+    color: white;
+    display: inline-block;
+    background: red;}
+
+.cajag{overflow:scroll;
+    width: 500px;
+    position: relative;
+    left: 150px;}

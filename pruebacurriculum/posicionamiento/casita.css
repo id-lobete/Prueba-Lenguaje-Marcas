@@ -1,0 +1,50 @@
+.tejado{width: 150px;
+    height: 30px;
+background-color: red;
+position: fixed;
+top: 50px;
+left: 80px;
+border-style: solid;
+    border-width: medium;
+    border-color: black;}
+
+.casa{background-color: gray;
+width: 130px;
+height: 100px;
+position: fixed;
+top: 83px;
+left: 90px;
+border-style: solid;
+    border-width: medium;
+    border-color: black;}
+
+.ven1{background-color: yellow;
+    width: 10px;
+    height: 10px;
+    position: fixed;
+    top: 120px;
+    left: 100px;
+    border-style: solid;
+        border-width: medium;
+        border-color: black;}
+
+.ven2{background-color: yellow;
+     width: 10px;
+    height: 10px;
+    position: fixed;
+    top: 150px;
+    left: 180px;
+     border-style: solid;
+    border-width: medium;
+    border-color: black;}
+
+.puerta{background-color: gray;
+    width: 35px;
+   height: 50px;
+   position: fixed;
+   top: 133px;
+   left: 135px;
+    border-style: solid;
+   border-width: medium;
+   border-color: black;
+    text-align: center;}

@@ -1,0 +1,8 @@
+body{background-color: rgb(243, 192, 140);
+color: brown;}
+
+input[type="text"] {border: 2px solid brown;
+display: block;}
+
+input[type="submit"] {background-color: brown;
+color: white;}

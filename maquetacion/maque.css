@@ -1,0 +1,36 @@
+header {position: absolute;
+    top: 2%;
+    left: 2%;
+    height: 10%;
+    width: 93%;
+    border-style: solid;
+    border-width: medium;
+    border-color: black;
+}
+
+nav {position: absolute;
+    top: 13%;
+    left: 2%;
+    width: 25%;
+    height: 75%;
+}
+
+section {position: absolute;
+    top: 13%;
+    left: 30%;
+    height: 75%;
+    width: 65%;
+    border-style: solid;
+    border-width: medium;
+    border-color: black;
+}
+
+footer{position: absolute;
+    top: 89%;
+    left: 30%;
+    width: 65%;
+    height: 10%;}
+
+#imagen{float: right;
+    width: 11%;
+}

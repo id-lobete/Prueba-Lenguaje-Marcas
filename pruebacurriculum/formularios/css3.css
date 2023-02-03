@@ -1,4 +1,14 @@
 h1{text-decoration: underline dashed 5px blue;
 text-align: right;}
 
-fieldset{border-style: dashed blue;}
+fieldset{border-style: dashed 5px blue;}
+
+.campo{text-decoration: underline black;}
+
+input[type=text]{width: 60px;}
+
+select{width: 80px;}
+
+#izq{display: fixed;}
+
+#dech{left: 100px;}

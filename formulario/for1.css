@@ -1,0 +1,14 @@
+fieldset{background-color: rgb(146, 216, 238);
+    border: 1px solid black;
+}
+
+form{position: relative;
+    padding-left: 20%;
+    padding-right: 50%;}
+
+p{font-weight: bold;}
+
+input[type=text]{width: 90%;
+color: grey;}
+
+select{width: 90%;}
